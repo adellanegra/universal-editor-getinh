@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/2026/09/livelyhippo99608/:/",
+    "/content/2026/09/livelyhippo99608/configuration:/.helix/config.json",
+    "/content/2026/09/livelyhippo99608/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/2026/09/livelyhippo99608/"
   ]
 }
